@@ -17,7 +17,7 @@ export function PaperSection() {
           <p className="paper-dates">November 2025<br />Revised September 2026</p>
         </header>
 
-        <h3>1 Problem Description</h3>
+        <h3>Problem Description</h3>
         <p>
           In order to make roads safe next winter, the city of Madison is planning work shifts for snow plough drivers.
           There are 6 shifts, numbered 1 through 6, of 4 hours each in a day, and a total of <Tex>n</Tex> jobs over all 6
